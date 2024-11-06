@@ -39,7 +39,7 @@ img {
 }
 
 .back{
-  background-color: #F8B0AF;
+  background-color: black;
   transform: perspective(600px) rotateY(180deg);
   box-shadow: rgba(172, 19, 121, 0.404) 0px 7px 29px 0px;
 }
